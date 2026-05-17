@@ -20,21 +20,14 @@
 
 ---
 
-<br/>
-
 "Here's a list of **350+ free TryHackMe rooms🎉**, organized by topic to help you easily explore different areas of cybersecurity like network security and web exploitation. All rooms are completely *free—enjoy hacking and learning*!"
-
-
-<br/>
 
 ## Table of Contents
 
-</aside>
-
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **10**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **5**           |
+| **[Introductory Rooms](#intro-rooms)**            |     **10**      |        **5**              |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
@@ -928,5 +921,6 @@ Author❤️: [UTTAM BODARA](https://buymeacoffee.com/uttambodara)
 License💀: [MIT License](https://opensource.org/licenses/MIT)
 
 
-#   t r y h a c k m e - f r e e - l a b  
+#   t r y h a c k m e - f r e e - l a b 
+ 
  
